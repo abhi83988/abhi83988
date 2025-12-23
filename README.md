@@ -67,10 +67,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhi83988&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhi83988&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi83988&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 GitHub Stats :
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShIvAmKaUsHaL69&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ShIvAmKaUsHaL69&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShIvAmKaUsHaL69&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=abhi83988&icon=0&color=0)](https://visitcount.itsvg.in)
 

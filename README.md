@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
 
-<h1 align="center"> Hey there, I'm <a href="https://www.linkedin.com/in/shivam-kasuhal/" target="_blank" rel="noopener noreferrer"> Shivam Kasuhal </a> <img src="https://media.giphy.com/media/E6U8Pd6bzotoP9Wqz4/giphy.gif" width="55"> </h1>
+<h1 align="center"> Hey there, I'm <a href="https://www.linkedin.com/in/abhi-careers-in/" target="_blank" rel="noopener noreferrer"> CodeXabhi </a> <img src="https://media.giphy.com/media/E6U8Pd6bzotoP9Wqz4/giphy.gif" width="55"> </h1>
 <h3 align="center"><i>A Full-Stack Web  Developer</i></h3>
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
 
@@ -14,16 +14,15 @@
 
 - 🚀 I’m a **Full-Stack Web & GenAI Developer** passionate about building smooth, scalable digital experiences  
 - 🎨 I craft sleek **frontends with React & Tailwind**, and powerful **backends with Node.js & MongoDB**  
-- 🤖 Experienced in **AI integration, workflow automation (n8n), and ERP automation**  
+- 🤖 Experienced in **Full stack Web development**  
 - 💬 Fluent in **JavaScript & TypeScript** – I love solving problems and pushing **UI/UX** to the next level  
 - 🛠️ I enjoy creating tools that actually **work for real businesses**  
-- 📫 Reach me at **[abhi.careers.in@gmail.com](mailto:abhi.careers.in@gmail.com)**  
-- ☕ Fun fact: **I believe coffee + clean code = happiness**  
+- 📫 Reach me at **[abhi.careers.in@gmail.com](mailto:abhi.careers.in@gmail.com)**    
 
 
 ## 🌐 Socials :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kaushal-9b825a269/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-careers-in/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi___4u) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/abhi83988) 
 
@@ -75,7 +74,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShIvAmKaUsHaL69&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShIvAmKaUsHaL69&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## ✍️ Quote :
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

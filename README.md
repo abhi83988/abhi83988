@@ -3,11 +3,11 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
 
 <h1 align="center"> Hey there, I'm <a href="https://www.linkedin.com/in/shivam-kasuhal/" target="_blank" rel="noopener noreferrer"> Shivam Kasuhal </a> <img src="https://media.giphy.com/media/E6U8Pd6bzotoP9Wqz4/giphy.gif" width="55"> </h1>
-<h3 align="center"><i>A Full-Stack Web </i></h3>
+<h3 align="center"><i>A Full-Stack Web  Developer</i></h3>
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
 
 
-<img src="https://komarev.com/ghpvc/?username=ShIvAmKaUsHaL69&label=Profile%20views&color=0e75b6&style=flat" alt="ShIvAmKaUsHaL69" />
+<img src="https://komarev.com/ghpvc/?username=abhi83988&label=Profile%20views&color=0e75b6&style=flat" alt="codeXabhi" />
 
 
 ## 👨🏻‍💻 About Me :
@@ -17,15 +17,15 @@
 - 🤖 Experienced in **AI integration, workflow automation (n8n), and ERP automation**  
 - 💬 Fluent in **JavaScript & TypeScript** – I love solving problems and pushing **UI/UX** to the next level  
 - 🛠️ I enjoy creating tools that actually **work for real businesses**  
-- 📫 Reach me at **[shivamkasuhal181@gmail.com](mailto:shivamkasuhal181@gmail.com)**  
+- 📫 Reach me at **[abhi.careers.in@gmail.com](mailto:abhi.careers.in@gmail.com)**  
 - ☕ Fun fact: **I believe coffee + clean code = happiness**  
 
 
 ## 🌐 Socials :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kaushal-9b825a269/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivamkaushal800) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ShIvAmKaUsHaL69) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi___4u) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/abhi83988) 
 
 
 ## 💻 Tech Stack :
